@@ -5,7 +5,7 @@ This project is a clone of the "Ford Mustang 2024" home page, built using HTML, 
 ## Features
 
 - **Sticky Navbar**: Fixed navigation bar at the top for easy access.
-- **Image Carousel**: simple animation on high-quality images in Gallery section.
+- **Image Carousel**: Simple animation on high-quality images in Gallery section.
 - **Specifications Section**: Detailed information about the car's specs.
 - **Interactive FAQ Section**: Expandable FAQ sections.
 - **Button and Image Animations**: Smooth and engaging animations.
@@ -26,8 +26,8 @@ This project is a clone of the "Ford Mustang 2024" home page, built using HTML, 
 To get a local copy of the project up and running:
 
 **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/ford-mustang-2024-clone.git
 
-**Thank You**:
-Thank you for exploring the Ford Mustang 2024 Home Page Clone project. I hope you find it both engaging and useful. If you have any questions, feedback, or suggestions, please feel free to reach out. Enjoy exploring the features and pages!
+    https://github.com/ruturaj1011/Frod-Mustang2024-HomePage_Clone.git
+
+## Thank You
+Thank you for exploring the Ford Mustang 2024 Home Page Clone project. I hope you find it both engaging and useful. If you have any questions, feedback, or suggestions,      please feel free to reach out. Enjoy exploring the features and pages!
